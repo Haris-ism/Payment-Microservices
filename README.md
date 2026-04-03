@@ -12,6 +12,10 @@ For more detail regarding endpoints please use postman and import the payment-mi
 
 ![Block Diagram](block-diagram.png)
 
+### Sequence Diagram
+
+![Sequence Diagram](sequence-diagram.png)
+
 ### Services:
 
 - cc-auth : user's gateway for any action such as login, adding credit cards, inquiry, transaction, etc.
